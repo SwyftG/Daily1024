@@ -90,7 +90,7 @@
 
 这个项目源码，通过***阅读原文***即可查阅。
 
-最后来一波福利，关注公众号：***皮克啪的铲屎官***，回复***“1024”***，能够找到你需要的东西哦~
+最后来一波福利，关注公众号：**皮克啪的铲屎官**，回复“1024”，能够找到你需要的东西哦~
 ![关注并回复 1024 有惊喜](https://mmbiz.qpic.cn/mmbiz_jpg/jA4Qc7C9IZS5CU8Eicxw9K4kIY8BibzDJX6QiahNQ0wDC2HLheXWp6CpITXBWcxt6E4SRlxHJyrxNO6v6TlKMgeUg/0?wx_fmt=jpeg)
 
 
